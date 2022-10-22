@@ -1,0 +1,8 @@
+Ceci est un text issu d'un fichiertxt
+
+voici quelques liens : 
+
+wikipedia: https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal
+
+youtube: https://www.youtube.com/
+
